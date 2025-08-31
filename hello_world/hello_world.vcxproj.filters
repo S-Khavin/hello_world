@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\hello_world.cpp">
+    <ClCompile Include="include\PPP.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="include\PPP.ixx">
+    <ClCompile Include="src\hello_world.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
