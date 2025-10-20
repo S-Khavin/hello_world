@@ -152,7 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="include\PPP.ixx" />
-    <ClCompile Include="src\hello_world.cpp" />
+    <ClCompile Include="src\06_completing_a_program\exercises\calculator08.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\PPP.h" />
