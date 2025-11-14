@@ -18,9 +18,6 @@
     <ClCompile Include="include\PPP.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\06_completing_a_program\exercises\calculator08.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\PPP_support.h">
